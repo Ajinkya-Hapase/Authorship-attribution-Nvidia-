@@ -1,4 +1,4 @@
-# Authorship-attribution-Nvidia-
+# Authorship-attribution-Nvidia
 Authorship attribution is a type of text classification problem. Instead of categorizing text by topic, as you did in the disease text classification problem, the objective is to classify the text by author.
 The Problem
 The Federalist Papers - History Mystery!
