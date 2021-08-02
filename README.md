@@ -1,5 +1,5 @@
 # Authorship-attribution-Nvidia
-Authorship attribution is a type of text classification problem. Instead of categorizing text by topic, as you did in the disease text classification problem, the objective is to classify the text by author.
+Authorship attribution is a type of text classification problem. Instead of categorizing text by topic, as in the disease text classification problem, the objective is to classify the text by author.
 The Problem
 The Federalist Papers - History Mystery!
 The Federalist Papers are a set of essays written between 1787 and 1788 by Alexander Hamilton, James Madison and John Jay. Initially published under the pseudonym 'Publius', their intent was to encourage the ratification of the then-new Constitution of the United States of America. In later years, a list emerged where the author of each one of the 85 papers was identified. Nevertheless, for a subset of these papers the author is still in question. The problem of the Federalist Papers authorship attribution has been a subject of much research in statistical NLP in the past. Now you will try to solve this question with your own BERT-based project model.Image
